@@ -43,7 +43,7 @@ export default class CaseSlaEmbed extends LightningElement {
 
   handleError = (event) => {
     const { phase, code, message, retryable } = event.detail;
-    console.error(phase, code, message, retryable);
+    console.error("[caseSlaEmbed]", phase, code, message, retryable);
   };
 
   handleEscalate = async () => {
