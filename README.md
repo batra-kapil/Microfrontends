@@ -2,7 +2,9 @@
 
 An externally hosted React app embedded in a Lightning record page with the GA `lightning-ui-embedding` base component.
 
-**Video tutorial:** [Salesforce Microfrontends (UI Embedding) on YouTube](https://www.youtube.com/watch?v=Oo04-n-SPOA)
+**Video tutorial:** click the thumbnail to watch on YouTube.
+
+[![Salesforce Microfrontend: React app inside Salesforce, video tutorial](https://img.youtube.com/vi/Oo04-n-SPOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Oo04-n-SPOA)
 
 A support agent opens a Case. Next to it, the **Agenticwave SLA Tracker** shows the case number, the priority, and a countdown to the response target (High 4 hours, Medium 8, Low 24). An **Escalate to High priority** button asks the page to raise the priority.
 
